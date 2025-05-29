@@ -52,6 +52,11 @@ Post Exploitation The target is now owned. Following are meterpreter commands fo
 
 keyscan_dump Shows the keystrokes captured so far 
 
+![Screenshot (170)](https://github.com/user-attachments/assets/f4f4388b-6404-4245-adad-31bffd4952ee)
+![Screenshot (171)](https://github.com/user-attachments/assets/06569056-61bd-4df0-9d87-2fae35861031)
+![Screenshot (172)](https://github.com/user-attachments/assets/dde32207-6a04-472d-896a-c25be276096a)
+![Screenshot (174)](https://github.com/user-attachments/assets/e6330a9a-8633-4d45-b538-f996fbb2bf1e)
+![Uploading Screenshot (175).png…]()
 
 ## RESULT:
 The Metasploit framework is  used to compromise windows and is examined successfully.
